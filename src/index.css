@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(241, 246, 248)
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+  }
+  
+  #felix,
+  #post {
+    width: 1.2vw;
+  }
+  
+  .input-group {
+    margin-bottom: 3vh;
+  }
+  
+  #input-box {
+    margin-left: 2vw;
+    margin-top: 2vw;
+  }
+  #chirp-box {
+    margin-left: 6vw;
+    margin-top: 2vw;
+  }
